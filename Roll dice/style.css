@@ -1,0 +1,14 @@
+body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 10em;
+}
+button {
+  width: 170px;
+  height: 80px;
+  font-size: 30px;
+}
